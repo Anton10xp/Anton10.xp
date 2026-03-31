@@ -14,3 +14,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Anton10xp&show_icons=true&theme=radical" alt="Anton10xp's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anton10xp&layout=compact&theme=radical" alt="Top Langs" />
 </p>
+<p align="left">
+<a href="https://github.com/Anton10xp" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p> <p align="center">
+  <i>"O código é a poesia da lógica." | "Code is the poetry of logic."</i>
+</p>
